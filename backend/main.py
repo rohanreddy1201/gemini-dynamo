@@ -24,7 +24,7 @@ app.add_middleware(
 
 genai_processor = GeminiProcessor(
         model_name = "gemini-pro",
-        project = "gemini-dynamo-ro"
+        project = "YOUR-PROJECT-ID"
     )
 
 @app.post("/analyze_video")
