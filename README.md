@@ -68,7 +68,7 @@ To analyze a YouTube video, send a POST request to the \`/analyze_video\` endpoi
 curl -X POST "http://127.0.0.1:8000/analyze_video" -H "Content-Type: application/json" -d '{"youtube_link": "https://www.youtube.com/watch?v=example"}'
 
 ### Project Structure
-
+\`\`\`
 gemini-dynamo/
 ├── backend/
 │   ├── authenticate.json    # Google Cloud credentials (should be ignored in .gitignore)
@@ -83,6 +83,7 @@ gemini-dynamo/
 │   │   ├── package.json     # npm dependencies
 │   │   └── README.md        # Frontend specific README
 └── README.md                # Project README
+\`\`\`
 
 ### Contributing
 
