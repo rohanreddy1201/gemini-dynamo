@@ -95,7 +95,7 @@ gemini-dynamo/
 │   └── requirements.txt     # Python dependencies
 ├── frontend/
 │   ├── dynamocards/
-│   │   ├── src/             # React application source code
+│   │   ├── src/             # Frontend application source code
 │   │   ├── public/          # Static files
 │   │   ├── package.json     # npm dependencies
 │   │   └── README.md        # Frontend specific README
