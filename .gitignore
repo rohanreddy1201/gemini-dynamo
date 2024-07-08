@@ -134,6 +134,3 @@ backend/env
 
 #Exclude vs files
 .vs/
-
-#Exclude authentication file
-backend/authenticate.json
