@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gemini-dynamo-ro",
+  "private_key_id": "0fb716f0def5e9fb5c5e3743c2c75bab9e294d33",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC3MuHlejMrh63t\ndOY31JR58X1xOevEMCvvp9hcuID14a1PvvaFCXAzmGtdK6N6OsL6UbK2M5Xaf1bz\npxgGsKNxOYzeEmGXmKBZHp7V/XJjGXlyWlrgMZKSzJiNNWKss4x/dI4n7GsFhf63\nzEKF5XI6ljYUPpCqhAzjLSMT5jWISjONuz+fLYFMSCmYghbTTB5HHXiqx42juOVp\nfY/h8lRuun9k/95h4sYVKK3xIaZTMAlbVywe6eVxc87kJ84rYwkubuMVKya+S176\nhqLUKqiWw33lginzLvhJ7fhfMd8GusELJtiCk0Q9rMp0d2fD0gx7u3hZkducH/Di\nbvqOr4zTAgMBAAECggEAR6yUHcxsBa1dOmiAg7pbZsQ48FoZaFXycp6H82rKJajo\nPil32H/jUoRhCQBAQtuHmhjpowhWqjgk5EntB/0GzQ8XknC9luqDXaqxuQYiQSxf\nzAIWyN0MO/vo+WI4G1pZ7ynCTlNcYbpVeEJlim5E/S/0s4Hw5o2oXx8zOJ9aNVor\ngN6wWUiVi1av4KoSC7nJuXrQKF1ZCbryCTXKsvLH7Ypn2kLfpREHmdQnaSWunGOL\nh1poTN25RKCgCSumLiqMOs2ZSoDuMPH6bkJMbe49on5zsuHIdeZ47k7btReZjPeI\nzGSouvtol9P4EythZKmiyZ34XMZgpMAT2ClCCdrxRQKBgQD4EAHWT4Fhhi9bEGWj\ntQCX2/xOfrucDSNnDCN7V5vjuILrj9Hih59rHYuFxuDA6uxAPkkpTgdNYxThgBWV\nHlB55IjcLJjbkBei8f7KpMYodQaLcBvKKE2nFaJFvqzEOFl4G33M+0y1fAKRXfBD\nygj/3S+z7yctRA4jbL83mOoKnQKBgQC9D4vw7Ux1CilywiPNCwmCj9iZITa3jeNM\nQJvsBu5FdP3wkcEIN/fWkCj2nEWuVCZps1FRZ2WTTh20MD3HysZtG/aCjUYP9JYn\nsM1Y/npvZqIaRvqAXTgkO40jmpI/W5DY1ZEpXWP3Ik5xtQCsMd3IMKb5cwfbsiy+\nd07Xx+3iLwKBgHugzqmWWi7Wh0dlNqKOFMuaUXZ1Zt7xFVHIFO7lzMWDMYxg0wOJ\nAASMZvq3EVBURIYIBMJXJwCEfuWbxiXZQ9Zb9XF1sIDMoVsOLCOmVzPWjvpzVwY7\na+f3ujX0P3pTcxOO7/V20NYqBcWZAaNnT3DlNV8Bs461ui4hhnMY/JtpAoGBAIpG\nIJepNs4zDHV+QCjq9Z2kD0qP3DELeT5/0ooh14q9Mi0MrR2RsZYgAZW8XcpOiXmt\nSMA82zGNZHQxBD5ntBCA7x40rRVmUZvd15JLLMjlS5Hkb7oKc9EsLOHpXyUvlxS/\nvld+kmphkPXg6AkIv6h2zOiMlSa9fbQgFm4DL5zJAoGBAMT5oH24pv2T8UlnRxaA\neF1hBOeNaZJr/eH3TNntMHDORim9rigiSPEomAX0sR6D7qDrVNEBJsuEsIJyrgpA\nmNQ4x15UxVNvjXG7a2ZpbMnUTATE6pLmqlJC2nRFje/jHlEXN6Sxxa7OWaDr1Sjb\nEjoNMTAK0gRo8YqYbHnBPVVQ\n-----END PRIVATE KEY-----\n",
+  "client_email": "gemini-dynamo-ro@gemini-dynamo-ro.iam.gserviceaccount.com",
+  "client_id": "101282506812219329143",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gemini-dynamo-ro%40gemini-dynamo-ro.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
