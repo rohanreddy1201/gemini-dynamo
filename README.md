@@ -23,55 +23,41 @@ To install and run this project locally, follow these steps:
 
 ### Clone the Repository
 
-\`\`\`sh
 git clone https://github.com/rohanreddy1201/gemini-dynamo.git
 cd gemini-dynamo
-\`\`\`
 
 ### Backend Setup
 
 1. **Create a Virtual Environment**
 
-\`\`\`sh
 python -m venv venv
 source venv/bin/activate  # On Windows use \`venv\Scripts\activate\`
-\`\`\`
 
 2. **Install Backend Dependencies**
 
-\`\`\`sh
 pip install -r requirements.txt
-\`\`\`
 
 3. **Set Up Google Cloud Credentials**
 
-Ensure your Google Cloud credentials are set up properly and the \`authenticate.json\` file is securely managed and not included in version control.
+Ensure your Google Cloud credentials are set up properly and the `authenticate.json` file is securely managed and not included in version control.
 
 4. **Run the FastAPI Server**
 
-\`\`\`sh
 uvicorn main:app --reload
-\`\`\`
 
 ### Frontend Setup
 
 1. **Navigate to Frontend Directory**
 
-\`\`\`sh
 cd frontend/dynamocards
-\`\`\`
 
 2. **Install Frontend Dependencies**
 
-\`\`\`sh
 npm install
-\`\`\`
 
 3. **Run the Frontend Server**
 
-\`\`\`sh
 npm run dev
-\`\`\`
 
 ## Usage
 
@@ -79,13 +65,10 @@ npm run dev
 
 To analyze a YouTube video, send a POST request to the \`/analyze_video\` endpoint with the video URL:
 
-\`\`\`sh
 curl -X POST "http://127.0.0.1:8000/analyze_video" -H "Content-Type: application/json" -d '{"youtube_link": "https://www.youtube.com/watch?v=example"}'
-\`\`\`
 
 ### Project Structure
 
-\`\`\`
 gemini-dynamo/
 ├── backend/
 │   ├── authenticate.json    # Google Cloud credentials (should be ignored in .gitignore)
@@ -100,7 +83,6 @@ gemini-dynamo/
 │   │   ├── package.json     # npm dependencies
 │   │   └── README.md        # Frontend specific README
 └── README.md                # Project README
-\`\`\`
 
 ### Contributing
 
